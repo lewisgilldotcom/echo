@@ -1,5 +1,6 @@
 # Echo
 A recreation of the GNU Coreutils echo command.
 
-## TODO
-Add -n argument support
+## Features
+* echo :D
+* -n - Print without the trailing new line
